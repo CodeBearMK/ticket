@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\ticket\bin\Debug\ticket.exe.config
+D:\cat32tw\Desktop\ticket\bin\Debug\ticket.exe
+D:\cat32tw\Desktop\ticket\bin\Debug\ticket.pdb
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.Form1.resources
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.Properties.Resources.resources
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.exe
+D:\cat32tw\Desktop\ticket\obj\Debug\ticket.pdb
